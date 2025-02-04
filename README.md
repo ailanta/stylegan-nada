@@ -9,4 +9,11 @@ This project is an implementation of the StyleGAN-NADA approach proposed in the 
 <li>Web demo</li>
 <li>Image stylization from a file</li>
 
-<img src="/images/092225.png">
+<br/>
+<img src="/images/092225.png"/>
+
+To run the project use colab notebook: <a target="_blank" href="https://colab.research.google.com/github/ailanta/stylegan-nada/blob/main/Stylegan_nada_ailanta.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
