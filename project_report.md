@@ -72,10 +72,10 @@
 
 - **Исходный домен**: Human
 - **Целевой домен**: Werewolf
-- <br/><img src="/images/175312.png"/>
+<br/><img src="/images/175312.png"/>
 
 **4.2 Пример преобразования изображения из файла (инверсия)**
-<br/><img src="/images/115326.png"/>
+<br/><img src="/images/115326.png" width=600/>
 
 **4.3 Пример работы веб-демо**
 <br/><img src="/images/201713.png"/>
