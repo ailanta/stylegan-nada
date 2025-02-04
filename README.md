@@ -12,8 +12,13 @@ This project is an implementation of the StyleGAN-NADA approach proposed in the 
 <br/>
 <img src="/images/092225.png"/>
 
-To run the project use colab notebook: <a target="_blank" href="https://colab.research.google.com/github/ailanta/stylegan-nada/blob/main/Stylegan_nada_ailanta.ipynb">
+To run the project use a Colab notebook: <a target="_blank" href="https://colab.research.google.com/github/ailanta/stylegan-nada/blob/main/Stylegan_nada_ailanta.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+Also you can find here:
+<li>Literary review of the article in Russian: <a href="https://github.com/ailanta/stylegan-nada/blob/main/literary_review.md">Литературный обзор статьи</a></li>
+<li>Project report in Russian: <a href="https://github.com/ailanta/stylegan-nada/blob/main/project_report.md">Отчет по проекту</a></li>
+<li>Ready presets in a <a href="https://github.com/ailanta/stylegan-nada/tree/main/presets">presets</a> folder</li>
 
 
