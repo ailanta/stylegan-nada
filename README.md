@@ -8,3 +8,5 @@ This project is an implementation of the StyleGAN-NADA approach proposed in the 
 <li>Samples generation with ready presets</li>
 <li>Web demo</li>
 <li>Image stylization from a file</li>
+
+<img src="/images/092225.png">
